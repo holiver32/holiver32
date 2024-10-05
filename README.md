@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Holiver Hurtado</h1>
-<h3 align="center">A passionate front-end developer from Venezuela and I ♥ IT</h3>
+<h1 align="center">Hey 👋 I'm HoliveR</h1>
+<h3 align="center">I have worked as a system administrator, IT support, and web developer. I ♥ Technology. Currently, I am testing with AI. Maybe I can help you with something. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holiver32&label=Profile%20views&color=0e75b6&style=flat" alt="holiver32" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=holiver32" alt="holiver32" /></a> </p>
 
-- 🤝 I’m currently offering my services **as a freelancer and contribute content to the development community.**
+- 🤝 I'm currently offering my services **as a freelancer and contributing content to the development community.**.
 
 - 📫 How to reach me **holiver.hurtado7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img aling="center" src= "https://holiverhurtado.com/wp-content/uploads/2024/08/Diseno-Sliders-STH-1.3-1536x864.jpg"> 
 <p align="left">
 <a href="https://linkedin.com/in/in/holiver-hurtado-1965b64a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/holiver-hurtado-1965b64a" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://behance.net/holiverhurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://behance.net/holiverhurtado" height="30" width="40" /></a>
